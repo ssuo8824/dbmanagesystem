@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dbmanagesys.manage.mapper.DBMenuandUserListMapper">
+  
+
+ <!-- 根据parentId查询 -->
+    <select id="queryListByIdandUsername" resultType="DBMenuandUserList">
+       select * from tb_DBMenuandUser where  username=#{0}
+    </select>
+
+
+<!--    <resultMap type="DBMenuandUserList" id="dbmenuAllMapper">
+      <id column="id" property="id"/>
+      <result column="parent_Id" property="parent_Id"/>
+      <result column="username" property="username"/>
+      <result column="icon" property="icon"/>
+      <result column="name" property="name"/>
+        <result column="level" property="level"/>
+      <collection property="children"  ofType="DBMenuandUserList"
+         select="queryListByIdandUsername"
+         column="id"
+      />
+   
+   </resultMap>
+ -->
+
+
+   
+</mapper>

@@ -1,0 +1,11 @@
+com\dbmanagesys\manage\mapper\CreateDBandUserMapper.class
+com\dbmanagesys\manage\mapper\DBMenuandUserMapper.class
+com\dbmanagesys\manage\mapper\UserMapper.class
+com\dbmanagesys\manage\DB\SqlSqlserverDButil.class
+com\dbmanagesys\manage\DB\OracleDButil.class
+com\dbmanagesys\manage\mapper\DBandTableandUserinfoMapper.class
+com\dbmanagesys\manage\mapper\MenuMapper.class
+com\dbmanagesys\manage\mapper\DBMenuandUserListMapper.class
+com\dbmanagesys\manage\mapper\TableandDataMapper.class
+com\dbmanagesys\manage\mapper\TestUserMapper.class
+com\dbmanagesys\manage\DB\MySQLDButil.class

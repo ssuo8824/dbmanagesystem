@@ -1,0 +1,16 @@
+com\dbmanagesys\manage\service\base\BaseService.class
+com\dbmanagesys\manage\service\CreateDBandUserService.class
+com\dbmanagesys\manage\service\redis\RedisService$1.class
+com\dbmanagesys\manage\service\redis\RedisService.class
+com\dbmanagesys\manage\service\DataBaseService.class
+com\dbmanagesys\manage\service\UserService.class
+com\dbmanagesys\manage\service\redis\RedisService$2.class
+com\dbmanagesys\manage\service\redis\RedisService$4.class
+com\dbmanagesys\manage\service\TableandDataService.class
+com\dbmanagesys\manage\service\BaseService.class
+com\dbmanagesys\manage\service\redis\RedisService$3.class
+com\dbmanagesys\manage\service\MenuService.class
+com\dbmanagesys\manage\service\redis\RedisService$5.class
+com\dbmanagesys\manage\service\TestService.class
+com\dbmanagesys\manage\service\DBandTableandUserinfoService.class
+com\dbmanagesys\manage\service\redis\Function.class

@@ -1,0 +1,13 @@
+com\dbmanagesys\manage\pojo\TableandData.class
+com\dbmanagesys\manage\pojo\DBandTableandUserinfo.class
+com\dbmanagesys\manage\bean\Data.class
+com\dbmanagesys\manage\pojo\BasePojo.class
+com\dbmanagesys\manage\bean\Table.class
+com\dbmanagesys\manage\bean\TableandDataBean.class
+com\dbmanagesys\manage\pojo\DBMenuandUser.class
+com\dbmanagesys\manage\bean\TableInfoBean.class
+com\dbmanagesys\manage\pojo\User.class
+com\dbmanagesys\manage\bean\TableBean.class
+com\dbmanagesys\manage\pojo\Menu.class
+com\dbmanagesys\manage\pojo\DBMenuandUserList.class
+com\dbmanagesys\manage\pojo\CreateDBandUser.class
